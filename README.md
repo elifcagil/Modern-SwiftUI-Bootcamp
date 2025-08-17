@@ -36,7 +36,7 @@ Teoriyi minimumda tutup **uygulamayla öğrenme** felsefesiyle ilerleyeceğiz.
 <summary>📅 Temel SwiftUI ve Swift Giriş</summary>
 
 - [🎥 Ders-1 — Modern Programlamanın Temelleri](https://www.youtube.com/live/S7VwNftIrCo?si=nQekYnozekHYiVEj)  
-- [🎥 Ders-2 — Olmazsa Olmaz OOP Mantığı]()  
+- [🎥 Ders-2 — Olmazsa Olmaz OOP Mantığı](https://www.youtube.com/live/ikzdvQuMVM0?si=J1cZRvOlc4Jtjbfr)  
 - [🎥 Ders-3 — Webinar: Anıl Taşkıran]()  
 - [🎥 Ders-4 — SwiftLayout Tasarımı]()   
 </details>
@@ -82,7 +82,7 @@ Teoriyi minimumda tutup **uygulamayla öğrenme** felsefesiyle ilerleyeceğiz.
 
 ## 📅 Takvim ve Katılım
 - **Süre:** 8 Hafta  
-- **Format:** Canlı ve interaktif dersler (Zoom veya YouTube Live)  
+- **Format:** Canlı ve interaktif dersler (YouTube)  
 - **Ücret:** Tamamen ücretsiz  
 - **Kod Paylaşımı:** Bu repo üzerinden yapılacak  
 
@@ -100,3 +100,4 @@ Eğitim süreciyle ilgili tüm sorular için [iletişim kanallarımızı](https:
 ---
 
 🚀 **Hadi, SwiftUI öğrenme yolculuğuna birlikte çıkalım!**
+
