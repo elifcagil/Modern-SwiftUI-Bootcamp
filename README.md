@@ -38,7 +38,7 @@ Teoriyi minimumda tutup **uygulamayla öğrenme** felsefesiyle ilerleyeceğiz.
 - [🎥 Ders-1 — Modern Programlamanın Temelleri](https://www.youtube.com/live/S7VwNftIrCo?si=nQekYnozekHYiVEj)  
 - [🎥 Ders-2 — Olmazsa Olmaz OOP Mantığı](https://www.youtube.com/live/ikzdvQuMVM0?si=J1cZRvOlc4Jtjbfr)  
 - [🎥 Ders-3 — Webinar: Anıl Taşkıran]()  
-- [🎥 Ders-4 — SwiftLayout Tasarımı]()   
+- [🎥 Ders-4 — SwiftLayout Tasarımı](https://www.youtube.com/live/VhRuVDSEgjQ?si=P0f9AO7wrXuanokY)   
 </details>
 
 <details>
@@ -73,6 +73,14 @@ Teoriyi minimumda tutup **uygulamayla öğrenme** felsefesiyle ilerleyeceğiz.
 
 ---
 
+<summary>Örnek Projeler</summary>
+
+- [Sezgin Çiftçi Örnek Kodlar]()  
+
+</details>
+
+---
+
 ## 📌 Katılım Koşulları
 - Temel bilgisayar kullanım becerilerine sahip olmak  
 - Xcode kurulu bir Mac’e sahip olmak  
@@ -100,4 +108,5 @@ Eğitim süreciyle ilgili tüm sorular için [iletişim kanallarımızı](https:
 ---
 
 🚀 **Hadi, SwiftUI öğrenme yolculuğuna birlikte çıkalım!**
+
 
