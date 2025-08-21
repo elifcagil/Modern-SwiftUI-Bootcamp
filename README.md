@@ -75,8 +75,7 @@ Teoriyi minimumda tutup **uygulamayla öğrenme** felsefesiyle ilerleyeceğiz.
 
 <summary>Örnek Projeler</summary>
 
-- [Sezgin Çiftçi Örnek Kodlar](Example-Projects
-/Sezgin-Ciftci)  
+- [Sezgin Çiftçi Örnek Kodlar](Example-Projects/Sezgin-Ciftci)  
 
 </details>
 
@@ -109,6 +108,7 @@ Eğitim süreciyle ilgili tüm sorular için [iletişim kanallarımızı](https:
 ---
 
 🚀 **Hadi, SwiftUI öğrenme yolculuğuna birlikte çıkalım!**
+
 
 
 
