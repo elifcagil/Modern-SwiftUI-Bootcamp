@@ -37,18 +37,19 @@ Teoriyi minimumda tutup **uygulamayla öğrenme** felsefesiyle ilerleyeceğiz.
 
 - [🎥 Ders-1 — Modern Programlamanın Temelleri](https://www.youtube.com/live/S7VwNftIrCo?si=nQekYnozekHYiVEj)  
 - [🎥 Ders-2 — Olmazsa Olmaz OOP Mantığı](https://www.youtube.com/live/ikzdvQuMVM0?si=J1cZRvOlc4Jtjbfr)  
-- [🎥 Ders-3 — Webinar: Anıl Taşkıran]()  
+- [🎥 Ders-3 — Webinar: Anıl Taşkıran](https://www.youtube.com/live/wvCmC_TL9lw?si=ECxKFPHx3ewtnKfT)  
 - [🎥 Ders-4 — SwiftLayout Tasarımı](https://www.youtube.com/live/VhRuVDSEgjQ?si=P0f9AO7wrXuanokY)   
 </details>
 
 <details>
 <summary>📅 Etkileşim ve Veri Ustalığı</summary>
 
-- [🎥 Ders-5 — Webinar: Meryem Şahin]()  
-- [🎥 Ders-6 — State Yönetimi]()  
-- [🎥 Ders-7 — SwiftUI’da Liste Tasarımı]()  
-- [🎥 Ders-8 — MVVM Mimarisi]()  
-- [🎥 Ders-9 — Formlar, Modallar ve Detay Sayfaları]()   
+- [🎥 Ders-5 — Webinar: Meryem Şahin](https://www.youtube.com/live/5ZuxLxstTV0?si=OOxaerTsPZYIl4rV)  
+- [🎥 Ders-6 — State Yönetimi](https://www.youtube.com/live/ox4PrP8my9w?si=djlJ947PHu2ZBgWP)
+- [🎥 Ders-6 — Webiar: Fatih Durmaz](https://www.youtube.com/live/xdKtBMMFQGA?si=2WPOslVW9f-3E2B7)  
+- [🎥 Ders-7 — SwiftUI’da Liste Tasarımı](https://www.youtube.com/live/SwNlopo9htQ?si=D9diqRoIbLnjEo8W)  
+- [🎥 Ders-8 — MVVM Mimarisi](https://www.youtube.com/live/9MGiE1W7k_g?si=xxM9I8NV_AC2ta3J)  
+- [🎥 Ders-9 — Formlar, Modallar ve Detay Sayfaları](https://www.youtube.com/live/UZluQSuwsaA?si=vltb5q7TJD2k6VW7)   
 </details>
 
 <details>
@@ -75,7 +76,8 @@ Teoriyi minimumda tutup **uygulamayla öğrenme** felsefesiyle ilerleyeceğiz.
 
 <summary>Örnek Projeler</summary>
 
-- [Sezgin Çiftçi Örnek Kodlar](Example-Projects/Sezgin-Ciftci)  
+- [Sezgin Çiftçi Örnek Kodlar](Example-Projects/Sezgin-Ciftci)
+- [Orhan Aykut Kardeş Örnek Kodlar](https://drive.google.com/drive/folders/1zh7fQKegnIpz_FDEd15s6Vz9WlDyLbfB?usp=share_link)
 
 </details>
 
@@ -108,6 +110,7 @@ Eğitim süreciyle ilgili tüm sorular için [iletişim kanallarımızı](https:
 ---
 
 🚀 **Hadi, SwiftUI öğrenme yolculuğuna birlikte çıkalım!**
+
 
 
 
