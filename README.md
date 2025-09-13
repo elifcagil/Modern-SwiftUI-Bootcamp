@@ -76,8 +76,9 @@ Teoriyi minimumda tutup **uygulamayla öğrenme** felsefesiyle ilerleyeceğiz.
 
 <summary>Örnek Projeler</summary>
 
-- [Sezgin Çiftçi Örnek Kodlar](Example-Projects/Sezgin-Ciftci)
-- [Orhan Aykut Kardeş Örnek Kodlar](https://drive.google.com/drive/folders/1zh7fQKegnIpz_FDEd15s6Vz9WlDyLbfB?usp=share_link)
+- [Sezgin Çiftçi Örnek Proje Kodları](Example-Projects/Sezgin-Ciftci)
+- [Orhan Aykut Kardeş Örnek Proje Kodları](https://drive.google.com/drive/folders/1zh7fQKegnIpz_FDEd15s6Vz9WlDyLbfB?usp=share_link)
+- [Doğukaan Kılıçarslar Örnek Proje Kodları](Example-Projects/Dogukaan-Kılıcarslan)
 
 </details>
 
@@ -110,6 +111,7 @@ Eğitim süreciyle ilgili tüm sorular için [iletişim kanallarımızı](https:
 ---
 
 🚀 **Hadi, SwiftUI öğrenme yolculuğuna birlikte çıkalım!**
+
 
 
 
