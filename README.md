@@ -55,10 +55,10 @@ Teoriyi minimumda tutup **uygulamayla öğrenme** felsefesiyle ilerleyeceğiz.
 <details>
 <summary>📅 Veri Yönetimi ve API Entegrasyonları</summary>
 
-- [🎥 Ders-10 — UserDefaults Kullanımı]()  
-- [🎥 Ders-11 — CoreData Kullanımı]()  
-- [🎥 Ders-12 — URLSession Kullanımı]()  
-- [🎥 Ders-13 — API Tabanlı Listeleme]()  
+- [🎥 Ders-10 — UserDefaults Kullanımı](https://www.youtube.com/watch?v=6lnw6h12ZK0)  
+- [🎥 Ders-11 — CoreData Kullanımı](https://www.youtube.com/watch?v=vROyiNw07ks)  
+- [🎥 Ders-12 — URLSession Kullanımı](https://www.youtube.com/watch?v=V3O2bz0obvM)  
+- [🎥 Ders-13 — API Tabanlı Listeleme](https://www.youtube.com/watch?v=5qQ1-qcgf7Q)  
 </details>
 
 <details>
@@ -78,7 +78,8 @@ Teoriyi minimumda tutup **uygulamayla öğrenme** felsefesiyle ilerleyeceğiz.
 
 - [Sezgin Çiftçi Örnek Proje Kodları](Example-Projects/Sezgin-Ciftci)
 - [Orhan Aykut Kardeş Örnek Proje Kodları](https://drive.google.com/drive/folders/1zh7fQKegnIpz_FDEd15s6Vz9WlDyLbfB?usp=share_link)
-- [Doğukaan Kılıçarslar Örnek Proje Kodları](Example-Projects/Dogukaan-Kılıcarslan)
+- [Bilal Durnagöl Örnek Proje Kodları](Example-Projects/Bilal-Durnagol)
+- [Doğukaan Kılıçarslan Örnek Proje Kodları](Example-Projects/Dogukaan-Kılıcarslan)
 
 </details>
 
@@ -111,6 +112,7 @@ Eğitim süreciyle ilgili tüm sorular için [iletişim kanallarımızı](https:
 ---
 
 🚀 **Hadi, SwiftUI öğrenme yolculuğuna birlikte çıkalım!**
+
 
 
 
