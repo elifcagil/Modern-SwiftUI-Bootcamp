@@ -80,7 +80,7 @@ Teoriyi minimumda tutup **uygulamayla öğrenme** felsefesiyle ilerleyeceğiz.
 - [Orhan Aykut Kardeş Örnek Proje Kodları](https://drive.google.com/drive/folders/1zh7fQKegnIpz_FDEd15s6Vz9WlDyLbfB?usp=share_link)
 - [Bilal Durnagöl Örnek Proje Kodları](Example-Projects/Bilal-Durnagol)
 - [Kadir Aktaş Örnek Proje Kodları](Example-Projects/Kadir-Aktas)
-- [Doğukaan Kılıçarslan Örnek Proje Kodları](Example-Projects/Dogukaan-Kılıcarslan)
+- [Doğukaan Kılıçarslan Örnek Proje Kodları-Ders-1](Example-Projects/Dogukaan-Kılıcarslan)
 - [Doğukaan Kılıçarslan Örnek Proje Kodları-Ders-2](Example-Projects/Dogukaan-Kılıcarslan-2)
 
 </details>
@@ -114,6 +114,7 @@ Eğitim süreciyle ilgili tüm sorular için [iletişim kanallarımızı](https:
 ---
 
 🚀 **Hadi, SwiftUI öğrenme yolculuğuna birlikte çıkalım!**
+
 
 
 
