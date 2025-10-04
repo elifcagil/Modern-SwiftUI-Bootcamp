@@ -64,12 +64,8 @@ Teoriyi minimumda tutup **uygulamayla öğrenme** felsefesiyle ilerleyeceğiz.
 <details>
 <summary>📅 İleri SwiftUI Teknikleri</summary>
 
-- [🎥 Ders-14 — Lokasyon Servisi ile Uygulamalar]()  
-- [🎥 Ders-15 — SwiftUI ile Widget Geliştirme]()  
-- [🎥 Ders-16 — Erişilebilirlik (Accessibility)]()  
-- [🎥 Ders-17 — Webinar: Yiğit Alp Çıray]()  
-- [🎥 Ders-18 — Otomatik Testler]()  
-- [🎥 Ders-19 — Webinar: Can Yoldaş]()  
+- [🎥 Ders-14 — Lokasyon Servisi ile Uygulamalar](https://www.youtube.com/watch?v=8gV5JyZP5XQ)  
+- [🎥 Ders-15 — SwiftUI ile Widget Geliştirme](https://www.youtube.com/watch?v=wjHYxzuY2ls)  
 </details>
 
 ---
@@ -82,6 +78,7 @@ Teoriyi minimumda tutup **uygulamayla öğrenme** felsefesiyle ilerleyeceğiz.
 - [Kadir Aktaş Örnek Proje Kodları](Example-Projects/Kadir-Aktas)
 - [Doğukaan Kılıçarslan Örnek Proje Kodları-Ders-1](Example-Projects/Dogukaan-Kılıcarslan)
 - [Doğukaan Kılıçarslan Örnek Proje Kodları-Ders-2](Example-Projects/Dogukaan-Kılıcarslan-2)
+- [Erdi Tuncalp Örnek Proje Kodları-Ders-2](Example-Projects/Erdi-Tuncalp)
 
 </details>
 
@@ -114,6 +111,7 @@ Eğitim süreciyle ilgili tüm sorular için [iletişim kanallarımızı](https:
 ---
 
 🚀 **Hadi, SwiftUI öğrenme yolculuğuna birlikte çıkalım!**
+
 
 
 
