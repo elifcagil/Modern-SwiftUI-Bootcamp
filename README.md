@@ -46,7 +46,7 @@ Teoriyi minimumda tutup **uygulamayla öğrenme** felsefesiyle ilerleyeceğiz.
 
 - [🎥 Ders-5 — Webinar: Meryem Şahin](https://www.youtube.com/live/5ZuxLxstTV0?si=OOxaerTsPZYIl4rV)  
 - [🎥 Ders-6 — State Yönetimi](https://www.youtube.com/live/ox4PrP8my9w?si=djlJ947PHu2ZBgWP)
-- [🎥 Ders-6 — Webiar: Fatih Durmaz](https://www.youtube.com/live/xdKtBMMFQGA?si=2WPOslVW9f-3E2B7)  
+- [🎥 Ders-6 — Webinar: Fatih Durmaz](https://www.youtube.com/live/xdKtBMMFQGA?si=2WPOslVW9f-3E2B7)  
 - [🎥 Ders-7 — SwiftUI’da Liste Tasarımı](https://www.youtube.com/live/SwNlopo9htQ?si=D9diqRoIbLnjEo8W)  
 - [🎥 Ders-8 — MVVM Mimarisi](https://www.youtube.com/live/9MGiE1W7k_g?si=xxM9I8NV_AC2ta3J)  
 - [🎥 Ders-9 — Formlar, Modallar ve Detay Sayfaları](https://www.youtube.com/live/UZluQSuwsaA?si=vltb5q7TJD2k6VW7)   
@@ -78,7 +78,7 @@ Teoriyi minimumda tutup **uygulamayla öğrenme** felsefesiyle ilerleyeceğiz.
 - [Kadir Aktaş Örnek Proje Kodları](Example-Projects/Kadir-Aktas)
 - [Doğukaan Kılıçarslan Örnek Proje Kodları-Ders-1](Example-Projects/Dogukaan-Kılıcarslan)
 - [Doğukaan Kılıçarslan Örnek Proje Kodları-Ders-2](Example-Projects/Dogukaan-Kılıcarslan-2)
-- [Erdi Tuncalp Örnek Proje Kodları-Ders-2](Example-Projects/Erdi-Tuncalp)
+- [Erdi Tuncalp Örnek Proje Kodları](Example-Projects/Erdi-Tuncalp)
 
 </details>
 
@@ -111,6 +111,7 @@ Eğitim süreciyle ilgili tüm sorular için [iletişim kanallarımızı](https:
 ---
 
 🚀 **Hadi, SwiftUI öğrenme yolculuğuna birlikte çıkalım!**
+
 
 
 
